@@ -1,0 +1,11 @@
+Consumer Key (API Key)	j2ACDkm1Q4MC2hMKp0GCP9rKf
+Consumer Secret (API Secret)	crODZvFqolm1OWxYLCdgAg8ZVmd2FiO8NjAlsEI9A03yBy0jhd
+Access Level	Read and write (modify app permissions)
+Owner	rdurbha1977
+Owner ID	944401887213903878
+
+Access Token	944401887213903878-CglvLtomIBsD7DKMbMZ4lqZzHpOhx66
+Access Token Secret	NaFTJiD34ftrSM4CGDvlEnzMXGV45edSqYsSyu9gT4j3F
+Access Level	Read and write
+Owner	rdurbha1977
+Owner ID	944401887213903878
